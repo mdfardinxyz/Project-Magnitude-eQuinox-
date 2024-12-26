@@ -5,8 +5,8 @@ A course of study to estimate the true flux and the magnitude of an object from 
 
 **My contribution:** Section 4 and 5 (PSF Photometry, Calculating flux & magnitude)
 
-Supervisor: [Dr. Khan Asad](https://coalab.space/people/asad/) | Astronomer and Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
+Supervisor: [**Dr. Khan Asad**](https://coalab.space/people/asad/) | Astronomer and Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
 
 Timeline: September 2023
 
-This project was part of the [AST201 - Introduction to Astronomy](https://cassa.site/abekta/courses/ast201) course.
+This project was part of the [**AST201 - Introduction to Astronomy**](https://cassa.site/abekta/courses/ast201) course.
