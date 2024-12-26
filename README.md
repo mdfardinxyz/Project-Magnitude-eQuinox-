@@ -8,6 +8,3 @@ Supervisor: [Dr. Khan Asad](https://coalab.space/people/asad/) | Astronomer and 
 Timeline: September 2023
 
 This project was part of the [AST201 - Introduction to Astronomy](https://cassa.site/abekta/courses/ast201) course.
-
-
-![image](https://github.com/user-attachments/assets/e5c43ec6-3619-4cdd-aa39-78281f2cbd7a)
