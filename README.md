@@ -7,6 +7,6 @@ A course of study to estimate the true flux and the magnitude of an object from 
 
 Supervisor: [**Dr. Khan Asad**](https://coalab.space/people/asad/) | Astronomer and Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
 
-This project was part of the [**AST201 - Introduction to Astronomy**](https://cassa.site/abekta/courses/ast201) course from the [**Astronomy and Astrophysics**](https://cassa.site/minor/) minor.
+This project was part of the [**AST201 - Introduction to Astronomy**](https://cassa.site/abekta/courses/ast201) course from the [**Astronomy and Astrophysics**](https://cassa.site/minor/) minor, IUB.
 
 Timeline: September 2023
