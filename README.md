@@ -10,3 +10,7 @@ Supervisor: [**Dr. Khan Muhammad Bin Asad**](https://cassa.site/people/asad/) | 
 This project was part of the [**AST201 - Introduction to Astronomy**](https://cassa.site/entry/ast201/) course from the [**Astronomy and Astrophysics**](https://cassa.site/minor/) minor, IUB.
 
 Timeline: September 2023
+
+![image](https://github.com/user-attachments/assets/ee0f22fc-403d-486c-81ab-2edffa7a8508)
+
+
