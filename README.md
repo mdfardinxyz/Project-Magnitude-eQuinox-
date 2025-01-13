@@ -11,6 +11,6 @@ This project was part of the [**AST201 - Introduction to Astronomy**](https://ca
 
 Timeline: September 2023
 
-![image](https://github.com/user-attachments/assets/ee0f22fc-403d-486c-81ab-2edffa7a8508)
+[![image](https://github.com/user-attachments/assets/ee0f22fc-403d-486c-81ab-2edffa7a8508)](https://github.com/mdfardinxyz/Project-Magnitude-eQuinox-/blob/main/Project%20Report%20(magnitude).pdf)
 
 
